@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+body { font-family: Verdana;
+font-size: 25px;
+background-color: #fefae0;}
+h1 {
+    color: #fefae0;
+}
+.logo {
+    width: 140px;
+    float: left;
+    margin: 0px;
+}
+.books-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: rgb(233, 90, 8);
+}
